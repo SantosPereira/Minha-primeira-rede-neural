@@ -1,2 +1,2 @@
 # Minha-primeira-rede-neural
- Rede neural exetremamente simploera feita em python.
+ Rede neural simples feita em python.
