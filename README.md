@@ -1,2 +1,1 @@
-# Minha-primeira-rede-neural
- Rede neural simples feita em python.
+# Meu Primeiro Algoritmo de Machine Learning
