@@ -12,10 +12,12 @@ Esse projeto foi baseado nesse outro: <https://www.youtube.com/watch?v=iYg-2sEC3
         * rugosidade da superfície (lisa/irregular)
 
 
-    Indo além do projeto base implementei como funcionalidade principal o input de dados através de um arquivo .csv
+    Indo além do projeto base implementei como funcionalidade principal o input de dados 
+    através de um arquivo .csv
 
 
-    # A classificação de um objeto apartir do valor das caraterísticas inseridos manualmente pode ser feito rodando o arquivo "cliente.py"
+    A classificação de um objeto apartir do valor das caraterísticas inseridos manualmente 
+    pode ser feito rodando o arquivo "cliente.py"
 
 ## Dependências
 
