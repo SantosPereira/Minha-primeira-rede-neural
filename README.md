@@ -21,7 +21,7 @@ Esse projeto foi baseado nesse outro: <https://www.youtube.com/watch?v=iYg-2sEC3
 
 ## Dependências
 
-No projeto foi utilizada a biblioteca [scikitlearn](https://scikit-learn.org/stable/), segue a instalação:
+No projeto foi utilizada a biblioteca [scikit-learn](https://scikit-learn.org/stable/), segue a instalação:
 
 ~~~bash
 
