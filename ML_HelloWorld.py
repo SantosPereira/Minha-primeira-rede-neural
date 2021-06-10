@@ -7,7 +7,10 @@ lisa = 1
 Laranja = 0
 Maça = 1
 
-# Dados de treino
+# ------- Dados de treino -------
+# Definição das saídas ideais
+    # Maçã ~= >100g & <170g, lisa
+    # Laranja ~= >130g & <210g, irregular
 pomar = [[150, lisa],[130, lisa],[180, irregular],[160, irregular]]
 resultado = [Maça,Maça,Laranja,Laranja]
 # 
